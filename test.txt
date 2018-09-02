@@ -1,2 +1,6 @@
 git init
-git commit 1
+git add test.txt
+git commit -m 'first commit'
+git remote add origin https://github.com/minsu0806/gitTest.git
+
+git push -u origin master
