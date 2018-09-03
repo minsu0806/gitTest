@@ -4,3 +4,9 @@ git commit -m 'first commit'
 git remote add origin https://github.com/minsu0806/gitTest.git
 
 git push -u origin master
+
+git 테스트 스터디 중입니다.
+
+branch는 어떻게 구성을 해볼까요
+
+이건 메인 입니다.
