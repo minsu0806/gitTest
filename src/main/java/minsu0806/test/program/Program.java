@@ -5,6 +5,6 @@ public class Program {
 		System.out.println(getLogic());
 	}
 	public String getLogic() {
-		return "master logic";
+		return "custom_A logic";
 	}
 }
