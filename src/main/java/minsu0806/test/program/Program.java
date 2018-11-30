@@ -7,4 +7,7 @@ public class Program {
 	public String getLogic() {
 		return "custom_A logic";
 	}
+	public String hideMeTheMoney() {
+		return "\"";
+	}
 }
