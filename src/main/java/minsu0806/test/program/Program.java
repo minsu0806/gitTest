@@ -7,4 +7,13 @@ public class Program {
 	public String getLogic() {
 		return "master logic";
 	}
+	public String showMeTheMoney() {
+		return "$";
+	}	
+	public String IDKFA() {
+		return ":(";
+	}
+	public String IDSPISPOPD() {
+		return ":)";
+	}
 }
