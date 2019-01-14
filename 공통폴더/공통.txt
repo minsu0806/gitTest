@@ -21,4 +21,9 @@ Stashing Test111
 저기능 추가
 이것도 추가
 
+<<<<<<< HEAD
 Custom1추가
+=======
+공통 또 
+공통 또
+>>>>>>> refs/heads/master
