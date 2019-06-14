@@ -67,6 +67,7 @@ method is non-private so JUnit code can
                     inDoubleQuote=false;
                 }
             }
+            //이건 커스터머 쪽 주석인데 마스터에서 작성.
             else if(isPostgresqlCast) {
                 if(c==':') {
                 	isPostgresqlCast=false;
